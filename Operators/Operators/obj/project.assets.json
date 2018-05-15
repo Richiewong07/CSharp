@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/richiewong/Documents/C#/Operators/Operators/Operators.csproj",
+      "projectUniqueName": "/Users/richiewong/Documents/CSharp/Operators/Operators/Operators.csproj",
       "projectName": "Operators",
-      "projectPath": "/Users/richiewong/Documents/C#/Operators/Operators/Operators.csproj",
+      "projectPath": "/Users/richiewong/Documents/CSharp/Operators/Operators/Operators.csproj",
       "packagesPath": "/Users/richiewong/.nuget/packages/",
-      "outputPath": "/Users/richiewong/Documents/C#/Operators/Operators/obj",
+      "outputPath": "/Users/richiewong/Documents/CSharp/Operators/Operators/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
