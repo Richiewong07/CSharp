@@ -1,0 +1,11 @@
+/Users/richiewong/Documents/CSharp/CSharpFundamentals/CSharpFundamentals/obj/Debug/netcoreapp2.0/CSharpFundamentals.csprojResolveAssemblyReference.cache
+/Users/richiewong/Documents/CSharp/CSharpFundamentals/CSharpFundamentals/obj/Debug/netcoreapp2.0/CSharpFundamentals.csproj.CoreCompileInputs.cache
+/Users/richiewong/Documents/CSharp/CSharpFundamentals/CSharpFundamentals/obj/Debug/netcoreapp2.0/CSharpFundamentals.AssemblyInfoInputs.cache
+/Users/richiewong/Documents/CSharp/CSharpFundamentals/CSharpFundamentals/obj/Debug/netcoreapp2.0/CSharpFundamentals.AssemblyInfo.cs
+/Users/richiewong/Documents/CSharp/CSharpFundamentals/CSharpFundamentals/bin/Debug/netcoreapp2.0/CSharpFundamentals.deps.json
+/Users/richiewong/Documents/CSharp/CSharpFundamentals/CSharpFundamentals/bin/Debug/netcoreapp2.0/CSharpFundamentals.runtimeconfig.json
+/Users/richiewong/Documents/CSharp/CSharpFundamentals/CSharpFundamentals/bin/Debug/netcoreapp2.0/CSharpFundamentals.runtimeconfig.dev.json
+/Users/richiewong/Documents/CSharp/CSharpFundamentals/CSharpFundamentals/bin/Debug/netcoreapp2.0/CSharpFundamentals.dll
+/Users/richiewong/Documents/CSharp/CSharpFundamentals/CSharpFundamentals/bin/Debug/netcoreapp2.0/CSharpFundamentals.pdb
+/Users/richiewong/Documents/CSharp/CSharpFundamentals/CSharpFundamentals/obj/Debug/netcoreapp2.0/CSharpFundamentals.dll
+/Users/richiewong/Documents/CSharp/CSharpFundamentals/CSharpFundamentals/obj/Debug/netcoreapp2.0/CSharpFundamentals.pdb
