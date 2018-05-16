@@ -1,0 +1,11 @@
+/Users/richiewong/Documents/CSharp/NonPrimitiveTypes/Enums/Enums/bin/Debug/netcoreapp2.0/Enums.deps.json
+/Users/richiewong/Documents/CSharp/NonPrimitiveTypes/Enums/Enums/bin/Debug/netcoreapp2.0/Enums.runtimeconfig.json
+/Users/richiewong/Documents/CSharp/NonPrimitiveTypes/Enums/Enums/bin/Debug/netcoreapp2.0/Enums.runtimeconfig.dev.json
+/Users/richiewong/Documents/CSharp/NonPrimitiveTypes/Enums/Enums/bin/Debug/netcoreapp2.0/Enums.dll
+/Users/richiewong/Documents/CSharp/NonPrimitiveTypes/Enums/Enums/bin/Debug/netcoreapp2.0/Enums.pdb
+/Users/richiewong/Documents/CSharp/NonPrimitiveTypes/Enums/Enums/obj/Debug/netcoreapp2.0/Enums.csprojResolveAssemblyReference.cache
+/Users/richiewong/Documents/CSharp/NonPrimitiveTypes/Enums/Enums/obj/Debug/netcoreapp2.0/Enums.csproj.CoreCompileInputs.cache
+/Users/richiewong/Documents/CSharp/NonPrimitiveTypes/Enums/Enums/obj/Debug/netcoreapp2.0/Enums.AssemblyInfoInputs.cache
+/Users/richiewong/Documents/CSharp/NonPrimitiveTypes/Enums/Enums/obj/Debug/netcoreapp2.0/Enums.AssemblyInfo.cs
+/Users/richiewong/Documents/CSharp/NonPrimitiveTypes/Enums/Enums/obj/Debug/netcoreapp2.0/Enums.dll
+/Users/richiewong/Documents/CSharp/NonPrimitiveTypes/Enums/Enums/obj/Debug/netcoreapp2.0/Enums.pdb

@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enums", "Enums\Enums.csproj", "{BCEBF161-650E-4C26-8E27-FED2E5226216}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCEBF161-650E-4C26-8E27-FED2E5226216}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCEBF161-650E-4C26-8E27-FED2E5226216}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCEBF161-650E-4C26-8E27-FED2E5226216}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCEBF161-650E-4C26-8E27-FED2E5226216}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+/Users/richiewong/Documents/CSharp/NonPrimitiveTypes/Strings/Strings/obj/Debug/netcoreapp2.0/Strings.csprojResolveAssemblyReference.cache
+/Users/richiewong/Documents/CSharp/NonPrimitiveTypes/Strings/Strings/obj/Debug/netcoreapp2.0/Strings.csproj.CoreCompileInputs.cache
+/Users/richiewong/Documents/CSharp/NonPrimitiveTypes/Strings/Strings/obj/Debug/netcoreapp2.0/Strings.AssemblyInfoInputs.cache
+/Users/richiewong/Documents/CSharp/NonPrimitiveTypes/Strings/Strings/obj/Debug/netcoreapp2.0/Strings.AssemblyInfo.cs
+/Users/richiewong/Documents/CSharp/NonPrimitiveTypes/Strings/Strings/bin/Debug/netcoreapp2.0/Strings.deps.json
+/Users/richiewong/Documents/CSharp/NonPrimitiveTypes/Strings/Strings/bin/Debug/netcoreapp2.0/Strings.runtimeconfig.json
+/Users/richiewong/Documents/CSharp/NonPrimitiveTypes/Strings/Strings/bin/Debug/netcoreapp2.0/Strings.runtimeconfig.dev.json
+/Users/richiewong/Documents/CSharp/NonPrimitiveTypes/Strings/Strings/bin/Debug/netcoreapp2.0/Strings.dll
+/Users/richiewong/Documents/CSharp/NonPrimitiveTypes/Strings/Strings/bin/Debug/netcoreapp2.0/Strings.pdb
+/Users/richiewong/Documents/CSharp/NonPrimitiveTypes/Strings/Strings/obj/Debug/netcoreapp2.0/Strings.dll
+/Users/richiewong/Documents/CSharp/NonPrimitiveTypes/Strings/Strings/obj/Debug/netcoreapp2.0/Strings.pdb

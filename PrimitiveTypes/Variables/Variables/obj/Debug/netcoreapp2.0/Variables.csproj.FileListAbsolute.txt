@@ -1,0 +1,11 @@
+/Users/richiewong/Documents/C#/Variables/Variables/bin/Debug/netcoreapp2.0/Variables.deps.json
+/Users/richiewong/Documents/C#/Variables/Variables/bin/Debug/netcoreapp2.0/Variables.runtimeconfig.json
+/Users/richiewong/Documents/C#/Variables/Variables/bin/Debug/netcoreapp2.0/Variables.runtimeconfig.dev.json
+/Users/richiewong/Documents/C#/Variables/Variables/bin/Debug/netcoreapp2.0/Variables.dll
+/Users/richiewong/Documents/C#/Variables/Variables/bin/Debug/netcoreapp2.0/Variables.pdb
+/Users/richiewong/Documents/C#/Variables/Variables/obj/Debug/netcoreapp2.0/Variables.csprojResolveAssemblyReference.cache
+/Users/richiewong/Documents/C#/Variables/Variables/obj/Debug/netcoreapp2.0/Variables.csproj.CoreCompileInputs.cache
+/Users/richiewong/Documents/C#/Variables/Variables/obj/Debug/netcoreapp2.0/Variables.AssemblyInfoInputs.cache
+/Users/richiewong/Documents/C#/Variables/Variables/obj/Debug/netcoreapp2.0/Variables.AssemblyInfo.cs
+/Users/richiewong/Documents/C#/Variables/Variables/obj/Debug/netcoreapp2.0/Variables.dll
+/Users/richiewong/Documents/C#/Variables/Variables/obj/Debug/netcoreapp2.0/Variables.pdb

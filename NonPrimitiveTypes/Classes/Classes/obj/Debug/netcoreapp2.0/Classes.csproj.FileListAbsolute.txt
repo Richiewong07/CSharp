@@ -1,0 +1,11 @@
+/Users/richiewong/Documents/CSharp/Classes/Classes/bin/Debug/netcoreapp2.0/Classes.deps.json
+/Users/richiewong/Documents/CSharp/Classes/Classes/bin/Debug/netcoreapp2.0/Classes.runtimeconfig.json
+/Users/richiewong/Documents/CSharp/Classes/Classes/bin/Debug/netcoreapp2.0/Classes.runtimeconfig.dev.json
+/Users/richiewong/Documents/CSharp/Classes/Classes/bin/Debug/netcoreapp2.0/Classes.dll
+/Users/richiewong/Documents/CSharp/Classes/Classes/bin/Debug/netcoreapp2.0/Classes.pdb
+/Users/richiewong/Documents/CSharp/Classes/Classes/obj/Debug/netcoreapp2.0/Classes.csprojResolveAssemblyReference.cache
+/Users/richiewong/Documents/CSharp/Classes/Classes/obj/Debug/netcoreapp2.0/Classes.csproj.CoreCompileInputs.cache
+/Users/richiewong/Documents/CSharp/Classes/Classes/obj/Debug/netcoreapp2.0/Classes.AssemblyInfoInputs.cache
+/Users/richiewong/Documents/CSharp/Classes/Classes/obj/Debug/netcoreapp2.0/Classes.AssemblyInfo.cs
+/Users/richiewong/Documents/CSharp/Classes/Classes/obj/Debug/netcoreapp2.0/Classes.dll
+/Users/richiewong/Documents/CSharp/Classes/Classes/obj/Debug/netcoreapp2.0/Classes.pdb

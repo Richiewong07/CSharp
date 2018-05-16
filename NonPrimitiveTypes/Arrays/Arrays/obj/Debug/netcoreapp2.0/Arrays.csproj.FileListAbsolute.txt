@@ -1,0 +1,11 @@
+/Users/richiewong/Documents/CSharp/Arrays/Arrays/bin/Debug/netcoreapp2.0/Arrays.deps.json
+/Users/richiewong/Documents/CSharp/Arrays/Arrays/bin/Debug/netcoreapp2.0/Arrays.runtimeconfig.json
+/Users/richiewong/Documents/CSharp/Arrays/Arrays/bin/Debug/netcoreapp2.0/Arrays.runtimeconfig.dev.json
+/Users/richiewong/Documents/CSharp/Arrays/Arrays/bin/Debug/netcoreapp2.0/Arrays.dll
+/Users/richiewong/Documents/CSharp/Arrays/Arrays/bin/Debug/netcoreapp2.0/Arrays.pdb
+/Users/richiewong/Documents/CSharp/Arrays/Arrays/obj/Debug/netcoreapp2.0/Arrays.csprojResolveAssemblyReference.cache
+/Users/richiewong/Documents/CSharp/Arrays/Arrays/obj/Debug/netcoreapp2.0/Arrays.csproj.CoreCompileInputs.cache
+/Users/richiewong/Documents/CSharp/Arrays/Arrays/obj/Debug/netcoreapp2.0/Arrays.AssemblyInfoInputs.cache
+/Users/richiewong/Documents/CSharp/Arrays/Arrays/obj/Debug/netcoreapp2.0/Arrays.AssemblyInfo.cs
+/Users/richiewong/Documents/CSharp/Arrays/Arrays/obj/Debug/netcoreapp2.0/Arrays.dll
+/Users/richiewong/Documents/CSharp/Arrays/Arrays/obj/Debug/netcoreapp2.0/Arrays.pdb
