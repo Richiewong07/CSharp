@@ -1,0 +1,11 @@
+/Users/richiewong/Documents/CSharp/NonPrimitiveTypes/ReferenceAndValueTypes/ReferenceAndValueTypes/bin/Debug/netcoreapp2.0/ReferenceAndValueTypes.deps.json
+/Users/richiewong/Documents/CSharp/NonPrimitiveTypes/ReferenceAndValueTypes/ReferenceAndValueTypes/bin/Debug/netcoreapp2.0/ReferenceAndValueTypes.runtimeconfig.json
+/Users/richiewong/Documents/CSharp/NonPrimitiveTypes/ReferenceAndValueTypes/ReferenceAndValueTypes/bin/Debug/netcoreapp2.0/ReferenceAndValueTypes.runtimeconfig.dev.json
+/Users/richiewong/Documents/CSharp/NonPrimitiveTypes/ReferenceAndValueTypes/ReferenceAndValueTypes/bin/Debug/netcoreapp2.0/ReferenceAndValueTypes.dll
+/Users/richiewong/Documents/CSharp/NonPrimitiveTypes/ReferenceAndValueTypes/ReferenceAndValueTypes/bin/Debug/netcoreapp2.0/ReferenceAndValueTypes.pdb
+/Users/richiewong/Documents/CSharp/NonPrimitiveTypes/ReferenceAndValueTypes/ReferenceAndValueTypes/obj/Debug/netcoreapp2.0/ReferenceAndValueTypes.csprojResolveAssemblyReference.cache
+/Users/richiewong/Documents/CSharp/NonPrimitiveTypes/ReferenceAndValueTypes/ReferenceAndValueTypes/obj/Debug/netcoreapp2.0/ReferenceAndValueTypes.csproj.CoreCompileInputs.cache
+/Users/richiewong/Documents/CSharp/NonPrimitiveTypes/ReferenceAndValueTypes/ReferenceAndValueTypes/obj/Debug/netcoreapp2.0/ReferenceAndValueTypes.AssemblyInfoInputs.cache
+/Users/richiewong/Documents/CSharp/NonPrimitiveTypes/ReferenceAndValueTypes/ReferenceAndValueTypes/obj/Debug/netcoreapp2.0/ReferenceAndValueTypes.AssemblyInfo.cs
+/Users/richiewong/Documents/CSharp/NonPrimitiveTypes/ReferenceAndValueTypes/ReferenceAndValueTypes/obj/Debug/netcoreapp2.0/ReferenceAndValueTypes.dll
+/Users/richiewong/Documents/CSharp/NonPrimitiveTypes/ReferenceAndValueTypes/ReferenceAndValueTypes/obj/Debug/netcoreapp2.0/ReferenceAndValueTypes.pdb

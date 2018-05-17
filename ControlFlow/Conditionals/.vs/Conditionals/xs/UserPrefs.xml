@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{568F2498-4176-4895-AC90-4EB90C4E7393}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Conditionals/Program.cs">
+    <Files>
+      <File FileName="Conditionals/Program.cs" Line="34" Column="12" />
+      <File FileName="Conditionals/Season.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Conditionals PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

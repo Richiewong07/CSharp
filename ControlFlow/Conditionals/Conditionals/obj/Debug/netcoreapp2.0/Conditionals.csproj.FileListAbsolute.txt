@@ -1,0 +1,11 @@
+/Users/richiewong/Documents/CSharp/ControlFlow/Conditionals/Conditionals/bin/Debug/netcoreapp2.0/Conditionals.deps.json
+/Users/richiewong/Documents/CSharp/ControlFlow/Conditionals/Conditionals/bin/Debug/netcoreapp2.0/Conditionals.runtimeconfig.json
+/Users/richiewong/Documents/CSharp/ControlFlow/Conditionals/Conditionals/bin/Debug/netcoreapp2.0/Conditionals.runtimeconfig.dev.json
+/Users/richiewong/Documents/CSharp/ControlFlow/Conditionals/Conditionals/bin/Debug/netcoreapp2.0/Conditionals.dll
+/Users/richiewong/Documents/CSharp/ControlFlow/Conditionals/Conditionals/bin/Debug/netcoreapp2.0/Conditionals.pdb
+/Users/richiewong/Documents/CSharp/ControlFlow/Conditionals/Conditionals/obj/Debug/netcoreapp2.0/Conditionals.csprojResolveAssemblyReference.cache
+/Users/richiewong/Documents/CSharp/ControlFlow/Conditionals/Conditionals/obj/Debug/netcoreapp2.0/Conditionals.csproj.CoreCompileInputs.cache
+/Users/richiewong/Documents/CSharp/ControlFlow/Conditionals/Conditionals/obj/Debug/netcoreapp2.0/Conditionals.AssemblyInfoInputs.cache
+/Users/richiewong/Documents/CSharp/ControlFlow/Conditionals/Conditionals/obj/Debug/netcoreapp2.0/Conditionals.AssemblyInfo.cs
+/Users/richiewong/Documents/CSharp/ControlFlow/Conditionals/Conditionals/obj/Debug/netcoreapp2.0/Conditionals.dll
+/Users/richiewong/Documents/CSharp/ControlFlow/Conditionals/Conditionals/obj/Debug/netcoreapp2.0/Conditionals.pdb
