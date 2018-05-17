@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{ED610B4D-F376-49F0-B9FA-AF462ED1E22D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Conditional_Exercise_4/Program.cs">
+    <Files>
+      <File FileName="Conditional_Exercise_4/Program.cs" Line="38" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Conditional__Exercise__4 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

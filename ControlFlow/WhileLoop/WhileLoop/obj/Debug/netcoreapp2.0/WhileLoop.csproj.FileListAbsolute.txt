@@ -1,0 +1,11 @@
+/Users/richiewong/Documents/CSharp/ControlFlow/WhileLoop/WhileLoop/bin/Debug/netcoreapp2.0/WhileLoop.deps.json
+/Users/richiewong/Documents/CSharp/ControlFlow/WhileLoop/WhileLoop/bin/Debug/netcoreapp2.0/WhileLoop.runtimeconfig.json
+/Users/richiewong/Documents/CSharp/ControlFlow/WhileLoop/WhileLoop/bin/Debug/netcoreapp2.0/WhileLoop.runtimeconfig.dev.json
+/Users/richiewong/Documents/CSharp/ControlFlow/WhileLoop/WhileLoop/bin/Debug/netcoreapp2.0/WhileLoop.dll
+/Users/richiewong/Documents/CSharp/ControlFlow/WhileLoop/WhileLoop/bin/Debug/netcoreapp2.0/WhileLoop.pdb
+/Users/richiewong/Documents/CSharp/ControlFlow/WhileLoop/WhileLoop/obj/Debug/netcoreapp2.0/WhileLoop.csprojResolveAssemblyReference.cache
+/Users/richiewong/Documents/CSharp/ControlFlow/WhileLoop/WhileLoop/obj/Debug/netcoreapp2.0/WhileLoop.csproj.CoreCompileInputs.cache
+/Users/richiewong/Documents/CSharp/ControlFlow/WhileLoop/WhileLoop/obj/Debug/netcoreapp2.0/WhileLoop.AssemblyInfoInputs.cache
+/Users/richiewong/Documents/CSharp/ControlFlow/WhileLoop/WhileLoop/obj/Debug/netcoreapp2.0/WhileLoop.AssemblyInfo.cs
+/Users/richiewong/Documents/CSharp/ControlFlow/WhileLoop/WhileLoop/obj/Debug/netcoreapp2.0/WhileLoop.dll
+/Users/richiewong/Documents/CSharp/ControlFlow/WhileLoop/WhileLoop/obj/Debug/netcoreapp2.0/WhileLoop.pdb

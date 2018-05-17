@@ -1,0 +1,11 @@
+/Users/richiewong/Documents/CSharp/Exercises/Conditional_Exercise_4/Conditional_Exercise_4/obj/Debug/netcoreapp2.0/Conditional_Exercise_4.csprojResolveAssemblyReference.cache
+/Users/richiewong/Documents/CSharp/Exercises/Conditional_Exercise_4/Conditional_Exercise_4/obj/Debug/netcoreapp2.0/Conditional_Exercise_4.csproj.CoreCompileInputs.cache
+/Users/richiewong/Documents/CSharp/Exercises/Conditional_Exercise_4/Conditional_Exercise_4/obj/Debug/netcoreapp2.0/Conditional_Exercise_4.AssemblyInfoInputs.cache
+/Users/richiewong/Documents/CSharp/Exercises/Conditional_Exercise_4/Conditional_Exercise_4/obj/Debug/netcoreapp2.0/Conditional_Exercise_4.AssemblyInfo.cs
+/Users/richiewong/Documents/CSharp/Exercises/Conditional_Exercise_4/Conditional_Exercise_4/bin/Debug/netcoreapp2.0/Conditional_Exercise_4.deps.json
+/Users/richiewong/Documents/CSharp/Exercises/Conditional_Exercise_4/Conditional_Exercise_4/bin/Debug/netcoreapp2.0/Conditional_Exercise_4.runtimeconfig.json
+/Users/richiewong/Documents/CSharp/Exercises/Conditional_Exercise_4/Conditional_Exercise_4/bin/Debug/netcoreapp2.0/Conditional_Exercise_4.runtimeconfig.dev.json
+/Users/richiewong/Documents/CSharp/Exercises/Conditional_Exercise_4/Conditional_Exercise_4/bin/Debug/netcoreapp2.0/Conditional_Exercise_4.dll
+/Users/richiewong/Documents/CSharp/Exercises/Conditional_Exercise_4/Conditional_Exercise_4/bin/Debug/netcoreapp2.0/Conditional_Exercise_4.pdb
+/Users/richiewong/Documents/CSharp/Exercises/Conditional_Exercise_4/Conditional_Exercise_4/obj/Debug/netcoreapp2.0/Conditional_Exercise_4.dll
+/Users/richiewong/Documents/CSharp/Exercises/Conditional_Exercise_4/Conditional_Exercise_4/obj/Debug/netcoreapp2.0/Conditional_Exercise_4.pdb

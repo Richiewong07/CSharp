@@ -1,0 +1,11 @@
+/Users/richiewong/Documents/CSharp/ControlFlow/RandomClass/RandomClass/bin/Debug/netcoreapp2.0/RandomClass.deps.json
+/Users/richiewong/Documents/CSharp/ControlFlow/RandomClass/RandomClass/bin/Debug/netcoreapp2.0/RandomClass.runtimeconfig.json
+/Users/richiewong/Documents/CSharp/ControlFlow/RandomClass/RandomClass/bin/Debug/netcoreapp2.0/RandomClass.runtimeconfig.dev.json
+/Users/richiewong/Documents/CSharp/ControlFlow/RandomClass/RandomClass/bin/Debug/netcoreapp2.0/RandomClass.dll
+/Users/richiewong/Documents/CSharp/ControlFlow/RandomClass/RandomClass/bin/Debug/netcoreapp2.0/RandomClass.pdb
+/Users/richiewong/Documents/CSharp/ControlFlow/RandomClass/RandomClass/obj/Debug/netcoreapp2.0/RandomClass.csprojResolveAssemblyReference.cache
+/Users/richiewong/Documents/CSharp/ControlFlow/RandomClass/RandomClass/obj/Debug/netcoreapp2.0/RandomClass.csproj.CoreCompileInputs.cache
+/Users/richiewong/Documents/CSharp/ControlFlow/RandomClass/RandomClass/obj/Debug/netcoreapp2.0/RandomClass.AssemblyInfoInputs.cache
+/Users/richiewong/Documents/CSharp/ControlFlow/RandomClass/RandomClass/obj/Debug/netcoreapp2.0/RandomClass.AssemblyInfo.cs
+/Users/richiewong/Documents/CSharp/ControlFlow/RandomClass/RandomClass/obj/Debug/netcoreapp2.0/RandomClass.dll
+/Users/richiewong/Documents/CSharp/ControlFlow/RandomClass/RandomClass/obj/Debug/netcoreapp2.0/RandomClass.pdb

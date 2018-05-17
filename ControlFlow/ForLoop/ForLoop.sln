@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForLoop", "ForLoop\ForLoop.csproj", "{B9A8DC8A-49B4-4CCE-9E49-668362E8BF4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9A8DC8A-49B4-4CCE-9E49-668362E8BF4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9A8DC8A-49B4-4CCE-9E49-668362E8BF4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9A8DC8A-49B4-4CCE-9E49-668362E8BF4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9A8DC8A-49B4-4CCE-9E49-668362E8BF4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

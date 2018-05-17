@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{1DB3C2D1-3058-4DBB-AE41-0CE897CF3827}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WhileLoop/Program.cs">
+    <Files>
+      <File FileName="WhileLoop/Program.cs" Line="22" Column="8" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.WhileLoop PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

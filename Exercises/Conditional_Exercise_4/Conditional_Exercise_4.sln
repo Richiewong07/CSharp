@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditional_Exercise_4", "Conditional_Exercise_4\Conditional_Exercise_4.csproj", "{ED610B4D-F376-49F0-B9FA-AF462ED1E22D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED610B4D-F376-49F0-B9FA-AF462ED1E22D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED610B4D-F376-49F0-B9FA-AF462ED1E22D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED610B4D-F376-49F0-B9FA-AF462ED1E22D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED610B4D-F376-49F0-B9FA-AF462ED1E22D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
