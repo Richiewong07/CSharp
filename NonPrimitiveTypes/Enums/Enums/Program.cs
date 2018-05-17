@@ -19,11 +19,17 @@ namespace Enums
             
 
             // CASTING TO CONVERT INTEGER TO SHIPPING METHOD
-			var methodID = 2;
+			var methodID = 3;
 			Console.WriteLine((ShippingMethod)methodID);
 
             // CONVERT TO STRING
 			Console.WriteLine(method.ToString());
+
+
+			// CONVERT STRING TO ENUM
+			var methodName = "Express";
+			var shippingMethod = (ShippingMethod)Enum.Parse(typeof(ShippingMethod), methodName);
 		}
     }
 }
+

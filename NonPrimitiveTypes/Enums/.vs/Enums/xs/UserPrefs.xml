@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{BCEBF161-650E-4C26-8E27-FED2E5226216}|Default">
-  <MonoDevelop.Ide.ItemProperties.Enums PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Enums PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Enums/Program.cs">
     <Files>
-      <File FileName="Enums/Program.cs" Line="1" Column="1" />
+      <File FileName="Enums/Program.cs" Line="18" Column="72" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
