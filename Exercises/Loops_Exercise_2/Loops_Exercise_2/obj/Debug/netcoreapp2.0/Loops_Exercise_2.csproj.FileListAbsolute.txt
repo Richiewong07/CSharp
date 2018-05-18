@@ -1,0 +1,11 @@
+/Users/richiewong/Documents/CSharp/Exercises/Loops_Exercise_2/Loops_Exercise_2/obj/Debug/netcoreapp2.0/Loops_Exercise_2.csprojResolveAssemblyReference.cache
+/Users/richiewong/Documents/CSharp/Exercises/Loops_Exercise_2/Loops_Exercise_2/obj/Debug/netcoreapp2.0/Loops_Exercise_2.csproj.CoreCompileInputs.cache
+/Users/richiewong/Documents/CSharp/Exercises/Loops_Exercise_2/Loops_Exercise_2/obj/Debug/netcoreapp2.0/Loops_Exercise_2.AssemblyInfoInputs.cache
+/Users/richiewong/Documents/CSharp/Exercises/Loops_Exercise_2/Loops_Exercise_2/obj/Debug/netcoreapp2.0/Loops_Exercise_2.AssemblyInfo.cs
+/Users/richiewong/Documents/CSharp/Exercises/Loops_Exercise_2/Loops_Exercise_2/bin/Debug/netcoreapp2.0/Loops_Exercise_2.deps.json
+/Users/richiewong/Documents/CSharp/Exercises/Loops_Exercise_2/Loops_Exercise_2/bin/Debug/netcoreapp2.0/Loops_Exercise_2.runtimeconfig.json
+/Users/richiewong/Documents/CSharp/Exercises/Loops_Exercise_2/Loops_Exercise_2/bin/Debug/netcoreapp2.0/Loops_Exercise_2.runtimeconfig.dev.json
+/Users/richiewong/Documents/CSharp/Exercises/Loops_Exercise_2/Loops_Exercise_2/bin/Debug/netcoreapp2.0/Loops_Exercise_2.dll
+/Users/richiewong/Documents/CSharp/Exercises/Loops_Exercise_2/Loops_Exercise_2/bin/Debug/netcoreapp2.0/Loops_Exercise_2.pdb
+/Users/richiewong/Documents/CSharp/Exercises/Loops_Exercise_2/Loops_Exercise_2/obj/Debug/netcoreapp2.0/Loops_Exercise_2.dll
+/Users/richiewong/Documents/CSharp/Exercises/Loops_Exercise_2/Loops_Exercise_2/obj/Debug/netcoreapp2.0/Loops_Exercise_2.pdb
