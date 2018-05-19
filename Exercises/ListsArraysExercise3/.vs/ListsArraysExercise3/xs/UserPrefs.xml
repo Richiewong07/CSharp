@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{369C9CB4-B546-4B81-BB20-A1210FF9B6EA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ListsArraysExercise3/Program.cs">
+    <Files>
+      <File FileName="ListsArraysExercise3/Program.cs" Line="20" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ListsArraysExercise3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

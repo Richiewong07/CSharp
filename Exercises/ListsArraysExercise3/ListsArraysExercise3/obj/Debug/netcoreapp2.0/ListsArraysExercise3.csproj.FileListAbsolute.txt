@@ -1,0 +1,11 @@
+/Users/richiewong/Documents/CSharp/Exercises/ListsArraysExercise3/ListsArraysExercise3/bin/Debug/netcoreapp2.0/ListsArraysExercise3.deps.json
+/Users/richiewong/Documents/CSharp/Exercises/ListsArraysExercise3/ListsArraysExercise3/bin/Debug/netcoreapp2.0/ListsArraysExercise3.runtimeconfig.json
+/Users/richiewong/Documents/CSharp/Exercises/ListsArraysExercise3/ListsArraysExercise3/bin/Debug/netcoreapp2.0/ListsArraysExercise3.runtimeconfig.dev.json
+/Users/richiewong/Documents/CSharp/Exercises/ListsArraysExercise3/ListsArraysExercise3/bin/Debug/netcoreapp2.0/ListsArraysExercise3.dll
+/Users/richiewong/Documents/CSharp/Exercises/ListsArraysExercise3/ListsArraysExercise3/bin/Debug/netcoreapp2.0/ListsArraysExercise3.pdb
+/Users/richiewong/Documents/CSharp/Exercises/ListsArraysExercise3/ListsArraysExercise3/obj/Debug/netcoreapp2.0/ListsArraysExercise3.csprojResolveAssemblyReference.cache
+/Users/richiewong/Documents/CSharp/Exercises/ListsArraysExercise3/ListsArraysExercise3/obj/Debug/netcoreapp2.0/ListsArraysExercise3.csproj.CoreCompileInputs.cache
+/Users/richiewong/Documents/CSharp/Exercises/ListsArraysExercise3/ListsArraysExercise3/obj/Debug/netcoreapp2.0/ListsArraysExercise3.AssemblyInfoInputs.cache
+/Users/richiewong/Documents/CSharp/Exercises/ListsArraysExercise3/ListsArraysExercise3/obj/Debug/netcoreapp2.0/ListsArraysExercise3.AssemblyInfo.cs
+/Users/richiewong/Documents/CSharp/Exercises/ListsArraysExercise3/ListsArraysExercise3/obj/Debug/netcoreapp2.0/ListsArraysExercise3.dll
+/Users/richiewong/Documents/CSharp/Exercises/ListsArraysExercise3/ListsArraysExercise3/obj/Debug/netcoreapp2.0/ListsArraysExercise3.pdb

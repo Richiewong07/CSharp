@@ -1,0 +1,11 @@
+/Users/richiewong/Documents/CSharp/Exercises/ListsArraysExercise5/ListsArraysExercise5/obj/Debug/netcoreapp2.0/ListsArraysExercise5.csprojResolveAssemblyReference.cache
+/Users/richiewong/Documents/CSharp/Exercises/ListsArraysExercise5/ListsArraysExercise5/obj/Debug/netcoreapp2.0/ListsArraysExercise5.csproj.CoreCompileInputs.cache
+/Users/richiewong/Documents/CSharp/Exercises/ListsArraysExercise5/ListsArraysExercise5/obj/Debug/netcoreapp2.0/ListsArraysExercise5.AssemblyInfoInputs.cache
+/Users/richiewong/Documents/CSharp/Exercises/ListsArraysExercise5/ListsArraysExercise5/obj/Debug/netcoreapp2.0/ListsArraysExercise5.AssemblyInfo.cs
+/Users/richiewong/Documents/CSharp/Exercises/ListsArraysExercise5/ListsArraysExercise5/bin/Debug/netcoreapp2.0/ListsArraysExercise5.deps.json
+/Users/richiewong/Documents/CSharp/Exercises/ListsArraysExercise5/ListsArraysExercise5/bin/Debug/netcoreapp2.0/ListsArraysExercise5.runtimeconfig.json
+/Users/richiewong/Documents/CSharp/Exercises/ListsArraysExercise5/ListsArraysExercise5/bin/Debug/netcoreapp2.0/ListsArraysExercise5.runtimeconfig.dev.json
+/Users/richiewong/Documents/CSharp/Exercises/ListsArraysExercise5/ListsArraysExercise5/bin/Debug/netcoreapp2.0/ListsArraysExercise5.dll
+/Users/richiewong/Documents/CSharp/Exercises/ListsArraysExercise5/ListsArraysExercise5/bin/Debug/netcoreapp2.0/ListsArraysExercise5.pdb
+/Users/richiewong/Documents/CSharp/Exercises/ListsArraysExercise5/ListsArraysExercise5/obj/Debug/netcoreapp2.0/ListsArraysExercise5.dll
+/Users/richiewong/Documents/CSharp/Exercises/ListsArraysExercise5/ListsArraysExercise5/obj/Debug/netcoreapp2.0/ListsArraysExercise5.pdb
