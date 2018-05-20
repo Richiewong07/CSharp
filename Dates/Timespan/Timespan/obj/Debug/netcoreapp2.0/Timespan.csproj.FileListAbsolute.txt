@@ -1,0 +1,11 @@
+/Users/richiewong/Documents/CSharp/Dates/Timespan/Timespan/bin/Debug/netcoreapp2.0/Timespan.deps.json
+/Users/richiewong/Documents/CSharp/Dates/Timespan/Timespan/bin/Debug/netcoreapp2.0/Timespan.runtimeconfig.json
+/Users/richiewong/Documents/CSharp/Dates/Timespan/Timespan/bin/Debug/netcoreapp2.0/Timespan.runtimeconfig.dev.json
+/Users/richiewong/Documents/CSharp/Dates/Timespan/Timespan/bin/Debug/netcoreapp2.0/Timespan.dll
+/Users/richiewong/Documents/CSharp/Dates/Timespan/Timespan/bin/Debug/netcoreapp2.0/Timespan.pdb
+/Users/richiewong/Documents/CSharp/Dates/Timespan/Timespan/obj/Debug/netcoreapp2.0/Timespan.csprojResolveAssemblyReference.cache
+/Users/richiewong/Documents/CSharp/Dates/Timespan/Timespan/obj/Debug/netcoreapp2.0/Timespan.csproj.CoreCompileInputs.cache
+/Users/richiewong/Documents/CSharp/Dates/Timespan/Timespan/obj/Debug/netcoreapp2.0/Timespan.AssemblyInfoInputs.cache
+/Users/richiewong/Documents/CSharp/Dates/Timespan/Timespan/obj/Debug/netcoreapp2.0/Timespan.AssemblyInfo.cs
+/Users/richiewong/Documents/CSharp/Dates/Timespan/Timespan/obj/Debug/netcoreapp2.0/Timespan.dll
+/Users/richiewong/Documents/CSharp/Dates/Timespan/Timespan/obj/Debug/netcoreapp2.0/Timespan.pdb

@@ -1,0 +1,11 @@
+/Users/richiewong/Documents/CSharp/Dates/DateTime/Datetime/bin/Debug/netcoreapp2.0/Datetime.deps.json
+/Users/richiewong/Documents/CSharp/Dates/DateTime/Datetime/bin/Debug/netcoreapp2.0/Datetime.runtimeconfig.json
+/Users/richiewong/Documents/CSharp/Dates/DateTime/Datetime/bin/Debug/netcoreapp2.0/Datetime.runtimeconfig.dev.json
+/Users/richiewong/Documents/CSharp/Dates/DateTime/DateTime/bin/Debug/netcoreapp2.0/Datetime.dll
+/Users/richiewong/Documents/CSharp/Dates/DateTime/DateTime/bin/Debug/netcoreapp2.0/Datetime.pdb
+/Users/richiewong/Documents/CSharp/Dates/DateTime/DateTime/obj/Debug/netcoreapp2.0/Datetime.csprojResolveAssemblyReference.cache
+/Users/richiewong/Documents/CSharp/Dates/DateTime/DateTime/obj/Debug/netcoreapp2.0/Datetime.csproj.CoreCompileInputs.cache
+/Users/richiewong/Documents/CSharp/Dates/DateTime/DateTime/obj/Debug/netcoreapp2.0/Datetime.AssemblyInfoInputs.cache
+/Users/richiewong/Documents/CSharp/Dates/DateTime/DateTime/obj/Debug/netcoreapp2.0/Datetime.AssemblyInfo.cs
+/Users/richiewong/Documents/CSharp/Dates/DateTime/DateTime/obj/Debug/netcoreapp2.0/Datetime.dll
+/Users/richiewong/Documents/CSharp/Dates/DateTime/DateTime/obj/Debug/netcoreapp2.0/Datetime.pdb
