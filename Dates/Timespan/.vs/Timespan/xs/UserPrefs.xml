@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{55522F77-EDA5-4CE9-B2C3-23967F5E3DE8}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Timespan/Program.cs">
     <Files>
-      <File FileName="Timespan/Program.cs" Line="9" Column="13" />
+      <File FileName="Timespan/Program.cs" Line="27" Column="15" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -9,6 +9,6 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Timespan PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Timespan PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
 </Properties>

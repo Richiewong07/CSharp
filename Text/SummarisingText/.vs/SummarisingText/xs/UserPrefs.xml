@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{B31548AF-805D-4F7C-85C9-31D758EE96BE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SummarisingText/Program.cs">
+    <Files>
+      <File FileName="SummarisingText/StringUtillity.cs" Line="34" Column="1" />
+      <File FileName="SummarisingText/Program.cs" Line="19" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SummarisingText PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

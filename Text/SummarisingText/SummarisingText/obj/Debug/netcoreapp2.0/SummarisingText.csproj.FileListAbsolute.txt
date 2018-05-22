@@ -1,0 +1,11 @@
+/Users/richiewong/Documents/CSharp/Text/SummarisingText/SummarisingText/bin/Debug/netcoreapp2.0/SummarisingText.deps.json
+/Users/richiewong/Documents/CSharp/Text/SummarisingText/SummarisingText/bin/Debug/netcoreapp2.0/SummarisingText.runtimeconfig.json
+/Users/richiewong/Documents/CSharp/Text/SummarisingText/SummarisingText/bin/Debug/netcoreapp2.0/SummarisingText.runtimeconfig.dev.json
+/Users/richiewong/Documents/CSharp/Text/SummarisingText/SummarisingText/bin/Debug/netcoreapp2.0/SummarisingText.dll
+/Users/richiewong/Documents/CSharp/Text/SummarisingText/SummarisingText/bin/Debug/netcoreapp2.0/SummarisingText.pdb
+/Users/richiewong/Documents/CSharp/Text/SummarisingText/SummarisingText/obj/Debug/netcoreapp2.0/SummarisingText.csprojResolveAssemblyReference.cache
+/Users/richiewong/Documents/CSharp/Text/SummarisingText/SummarisingText/obj/Debug/netcoreapp2.0/SummarisingText.csproj.CoreCompileInputs.cache
+/Users/richiewong/Documents/CSharp/Text/SummarisingText/SummarisingText/obj/Debug/netcoreapp2.0/SummarisingText.AssemblyInfoInputs.cache
+/Users/richiewong/Documents/CSharp/Text/SummarisingText/SummarisingText/obj/Debug/netcoreapp2.0/SummarisingText.AssemblyInfo.cs
+/Users/richiewong/Documents/CSharp/Text/SummarisingText/SummarisingText/obj/Debug/netcoreapp2.0/SummarisingText.dll
+/Users/richiewong/Documents/CSharp/Text/SummarisingText/SummarisingText/obj/Debug/netcoreapp2.0/SummarisingText.pdb

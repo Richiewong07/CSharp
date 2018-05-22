@@ -1,0 +1,11 @@
+/Users/richiewong/Documents/CSharp/Text/StringBuilder/StringBuilder/obj/Debug/netcoreapp2.0/StringBuilder.csprojResolveAssemblyReference.cache
+/Users/richiewong/Documents/CSharp/Text/StringBuilder/StringBuilder/obj/Debug/netcoreapp2.0/StringBuilder.csproj.CoreCompileInputs.cache
+/Users/richiewong/Documents/CSharp/Text/StringBuilder/StringBuilder/obj/Debug/netcoreapp2.0/StringBuilder.AssemblyInfoInputs.cache
+/Users/richiewong/Documents/CSharp/Text/StringBuilder/StringBuilder/obj/Debug/netcoreapp2.0/StringBuilder.AssemblyInfo.cs
+/Users/richiewong/Documents/CSharp/Text/StringBuilder/StringBuilder/bin/Debug/netcoreapp2.0/StringBuilder.deps.json
+/Users/richiewong/Documents/CSharp/Text/StringBuilder/StringBuilder/bin/Debug/netcoreapp2.0/StringBuilder.runtimeconfig.json
+/Users/richiewong/Documents/CSharp/Text/StringBuilder/StringBuilder/bin/Debug/netcoreapp2.0/StringBuilder.runtimeconfig.dev.json
+/Users/richiewong/Documents/CSharp/Text/StringBuilder/StringBuilder/bin/Debug/netcoreapp2.0/StringBuilder.dll
+/Users/richiewong/Documents/CSharp/Text/StringBuilder/StringBuilder/bin/Debug/netcoreapp2.0/StringBuilder.pdb
+/Users/richiewong/Documents/CSharp/Text/StringBuilder/StringBuilder/obj/Debug/netcoreapp2.0/StringBuilder.dll
+/Users/richiewong/Documents/CSharp/Text/StringBuilder/StringBuilder/obj/Debug/netcoreapp2.0/StringBuilder.pdb
