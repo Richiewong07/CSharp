@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectoryClass", "DirectoryClass\DirectoryClass.csproj", "{A74691A5-7525-45DF-8B5E-9841D3F9EBD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A74691A5-7525-45DF-8B5E-9841D3F9EBD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A74691A5-7525-45DF-8B5E-9841D3F9EBD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A74691A5-7525-45DF-8B5E-9841D3F9EBD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A74691A5-7525-45DF-8B5E-9841D3F9EBD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

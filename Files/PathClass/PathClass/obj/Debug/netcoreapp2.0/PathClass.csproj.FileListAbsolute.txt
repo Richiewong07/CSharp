@@ -1,0 +1,11 @@
+/Users/richiewong/Documents/CSharp/Files/PathClass/PathClass/bin/Debug/netcoreapp2.0/PathClass.deps.json
+/Users/richiewong/Documents/CSharp/Files/PathClass/PathClass/bin/Debug/netcoreapp2.0/PathClass.runtimeconfig.json
+/Users/richiewong/Documents/CSharp/Files/PathClass/PathClass/bin/Debug/netcoreapp2.0/PathClass.runtimeconfig.dev.json
+/Users/richiewong/Documents/CSharp/Files/PathClass/PathClass/bin/Debug/netcoreapp2.0/PathClass.dll
+/Users/richiewong/Documents/CSharp/Files/PathClass/PathClass/bin/Debug/netcoreapp2.0/PathClass.pdb
+/Users/richiewong/Documents/CSharp/Files/PathClass/PathClass/obj/Debug/netcoreapp2.0/PathClass.csprojResolveAssemblyReference.cache
+/Users/richiewong/Documents/CSharp/Files/PathClass/PathClass/obj/Debug/netcoreapp2.0/PathClass.csproj.CoreCompileInputs.cache
+/Users/richiewong/Documents/CSharp/Files/PathClass/PathClass/obj/Debug/netcoreapp2.0/PathClass.AssemblyInfoInputs.cache
+/Users/richiewong/Documents/CSharp/Files/PathClass/PathClass/obj/Debug/netcoreapp2.0/PathClass.AssemblyInfo.cs
+/Users/richiewong/Documents/CSharp/Files/PathClass/PathClass/obj/Debug/netcoreapp2.0/PathClass.dll
+/Users/richiewong/Documents/CSharp/Files/PathClass/PathClass/obj/Debug/netcoreapp2.0/PathClass.pdb

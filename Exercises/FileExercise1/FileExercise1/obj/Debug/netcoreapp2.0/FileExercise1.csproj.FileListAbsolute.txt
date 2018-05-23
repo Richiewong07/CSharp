@@ -1,0 +1,12 @@
+/Users/richiewong/Documents/CSharp/Exercises/FileExercise1/FileExercise1/obj/Debug/netcoreapp2.0/FileExercise1.csprojResolveAssemblyReference.cache
+/Users/richiewong/Documents/CSharp/Exercises/FileExercise1/FileExercise1/obj/Debug/netcoreapp2.0/FileExercise1.csproj.CoreCompileInputs.cache
+/Users/richiewong/Documents/CSharp/Exercises/FileExercise1/FileExercise1/obj/Debug/netcoreapp2.0/FileExercise1.AssemblyInfoInputs.cache
+/Users/richiewong/Documents/CSharp/Exercises/FileExercise1/FileExercise1/obj/Debug/netcoreapp2.0/FileExercise1.AssemblyInfo.cs
+/Users/richiewong/Documents/CSharp/Exercises/FileExercise1/FileExercise1/bin/Debug/netcoreapp2.0/Program.cs
+/Users/richiewong/Documents/CSharp/Exercises/FileExercise1/FileExercise1/bin/Debug/netcoreapp2.0/FileExercise1.deps.json
+/Users/richiewong/Documents/CSharp/Exercises/FileExercise1/FileExercise1/bin/Debug/netcoreapp2.0/FileExercise1.runtimeconfig.json
+/Users/richiewong/Documents/CSharp/Exercises/FileExercise1/FileExercise1/bin/Debug/netcoreapp2.0/FileExercise1.runtimeconfig.dev.json
+/Users/richiewong/Documents/CSharp/Exercises/FileExercise1/FileExercise1/bin/Debug/netcoreapp2.0/FileExercise1.dll
+/Users/richiewong/Documents/CSharp/Exercises/FileExercise1/FileExercise1/bin/Debug/netcoreapp2.0/FileExercise1.pdb
+/Users/richiewong/Documents/CSharp/Exercises/FileExercise1/FileExercise1/obj/Debug/netcoreapp2.0/FileExercise1.dll
+/Users/richiewong/Documents/CSharp/Exercises/FileExercise1/FileExercise1/obj/Debug/netcoreapp2.0/FileExercise1.pdb

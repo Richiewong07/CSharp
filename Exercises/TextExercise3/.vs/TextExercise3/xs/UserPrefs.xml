@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{8820A32E-F5D0-4FCF-81DC-D3ADDE646733}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="TextExercise3/Program.cs">
     <Files>
-      <File FileName="TextExercise3/Program.cs" Line="1" Column="1" />
+      <File FileName="TextExercise3/Program.cs" Line="41" Column="39" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -9,6 +9,6 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.TextExercise3 PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.TextExercise3 PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
 </Properties>

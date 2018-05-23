@@ -1,0 +1,11 @@
+/Users/richiewong/Documents/CSharp/Exercises/TextExercise4/TextExercise4/bin/Debug/netcoreapp2.0/TextExercise4.deps.json
+/Users/richiewong/Documents/CSharp/Exercises/TextExercise4/TextExercise4/bin/Debug/netcoreapp2.0/TextExercise4.runtimeconfig.json
+/Users/richiewong/Documents/CSharp/Exercises/TextExercise4/TextExercise4/bin/Debug/netcoreapp2.0/TextExercise4.runtimeconfig.dev.json
+/Users/richiewong/Documents/CSharp/Exercises/TextExercise4/TextExercise4/bin/Debug/netcoreapp2.0/TextExercise4.dll
+/Users/richiewong/Documents/CSharp/Exercises/TextExercise4/TextExercise4/bin/Debug/netcoreapp2.0/TextExercise4.pdb
+/Users/richiewong/Documents/CSharp/Exercises/TextExercise4/TextExercise4/obj/Debug/netcoreapp2.0/TextExercise4.csprojResolveAssemblyReference.cache
+/Users/richiewong/Documents/CSharp/Exercises/TextExercise4/TextExercise4/obj/Debug/netcoreapp2.0/TextExercise4.csproj.CoreCompileInputs.cache
+/Users/richiewong/Documents/CSharp/Exercises/TextExercise4/TextExercise4/obj/Debug/netcoreapp2.0/TextExercise4.AssemblyInfoInputs.cache
+/Users/richiewong/Documents/CSharp/Exercises/TextExercise4/TextExercise4/obj/Debug/netcoreapp2.0/TextExercise4.AssemblyInfo.cs
+/Users/richiewong/Documents/CSharp/Exercises/TextExercise4/TextExercise4/obj/Debug/netcoreapp2.0/TextExercise4.dll
+/Users/richiewong/Documents/CSharp/Exercises/TextExercise4/TextExercise4/obj/Debug/netcoreapp2.0/TextExercise4.pdb
