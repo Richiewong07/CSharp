@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{F5B90757-EEE8-45CB-A0E8-4100BA247890}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="FileExercise1/Program.cs">
     <Files>
-      <File FileName="FileExercise1/Program.cs" Line="9" Column="20" />
-      <File FileName="FileExercise1/SampleText.txt" Line="1" Column="1" />
+      <File FileName="FileExercise1/Program.cs" Line="15" Column="25" />
+      <File FileName="FileExercise1/SampleText.txt" Line="1" Column="72" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -11,5 +11,5 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.FileExercise1 PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.FileExercise1 PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

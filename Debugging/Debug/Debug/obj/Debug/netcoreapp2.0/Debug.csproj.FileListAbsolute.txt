@@ -1,0 +1,11 @@
+/Users/richiewong/Documents/CSharp/Debugging/Debug/Debug/bin/Debug/netcoreapp2.0/Debug.deps.json
+/Users/richiewong/Documents/CSharp/Debugging/Debug/Debug/bin/Debug/netcoreapp2.0/Debug.runtimeconfig.json
+/Users/richiewong/Documents/CSharp/Debugging/Debug/Debug/bin/Debug/netcoreapp2.0/Debug.runtimeconfig.dev.json
+/Users/richiewong/Documents/CSharp/Debugging/Debug/Debug/bin/Debug/netcoreapp2.0/Debug.dll
+/Users/richiewong/Documents/CSharp/Debugging/Debug/Debug/bin/Debug/netcoreapp2.0/Debug.pdb
+/Users/richiewong/Documents/CSharp/Debugging/Debug/Debug/obj/Debug/netcoreapp2.0/Debug.csprojResolveAssemblyReference.cache
+/Users/richiewong/Documents/CSharp/Debugging/Debug/Debug/obj/Debug/netcoreapp2.0/Debug.csproj.CoreCompileInputs.cache
+/Users/richiewong/Documents/CSharp/Debugging/Debug/Debug/obj/Debug/netcoreapp2.0/Debug.AssemblyInfoInputs.cache
+/Users/richiewong/Documents/CSharp/Debugging/Debug/Debug/obj/Debug/netcoreapp2.0/Debug.AssemblyInfo.cs
+/Users/richiewong/Documents/CSharp/Debugging/Debug/Debug/obj/Debug/netcoreapp2.0/Debug.dll
+/Users/richiewong/Documents/CSharp/Debugging/Debug/Debug/obj/Debug/netcoreapp2.0/Debug.pdb
