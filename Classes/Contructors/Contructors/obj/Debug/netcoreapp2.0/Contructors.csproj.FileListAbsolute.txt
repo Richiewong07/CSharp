@@ -1,0 +1,11 @@
+/Users/richiewong/Documents/CSharp/Classes/Contructors/Contructors/bin/Debug/netcoreapp2.0/Contructors.deps.json
+/Users/richiewong/Documents/CSharp/Classes/Contructors/Contructors/bin/Debug/netcoreapp2.0/Contructors.runtimeconfig.json
+/Users/richiewong/Documents/CSharp/Classes/Contructors/Contructors/bin/Debug/netcoreapp2.0/Contructors.runtimeconfig.dev.json
+/Users/richiewong/Documents/CSharp/Classes/Contructors/Contructors/bin/Debug/netcoreapp2.0/Contructors.dll
+/Users/richiewong/Documents/CSharp/Classes/Contructors/Contructors/bin/Debug/netcoreapp2.0/Contructors.pdb
+/Users/richiewong/Documents/CSharp/Classes/Contructors/Contructors/obj/Debug/netcoreapp2.0/Contructors.csprojResolveAssemblyReference.cache
+/Users/richiewong/Documents/CSharp/Classes/Contructors/Contructors/obj/Debug/netcoreapp2.0/Contructors.csproj.CoreCompileInputs.cache
+/Users/richiewong/Documents/CSharp/Classes/Contructors/Contructors/obj/Debug/netcoreapp2.0/Contructors.AssemblyInfoInputs.cache
+/Users/richiewong/Documents/CSharp/Classes/Contructors/Contructors/obj/Debug/netcoreapp2.0/Contructors.AssemblyInfo.cs
+/Users/richiewong/Documents/CSharp/Classes/Contructors/Contructors/obj/Debug/netcoreapp2.0/Contructors.dll
+/Users/richiewong/Documents/CSharp/Classes/Contructors/Contructors/obj/Debug/netcoreapp2.0/Contructors.pdb
