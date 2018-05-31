@@ -2,9 +2,9 @@
   <MonoDevelop.Ide.ItemProperties.Contructors PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Contructors/Customer.cs">
     <Files>
-      <File FileName="Contructors/Program.cs" Line="5" Column="1" />
-      <File FileName="Contructors/Customer.cs" Line="6" Column="28" />
-      <File FileName="Contructors/Order.cs" Line="1" Column="1" />
+      <File FileName="Contructors/Program.cs" Line="9" Column="10" />
+      <File FileName="Contructors/Customer.cs" Line="18" Column="4" />
+      <File FileName="Contructors/Order.cs" Line="8" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
