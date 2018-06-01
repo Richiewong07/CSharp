@@ -1,0 +1,11 @@
+/Users/richiewong/Documents/CSharp/Classes/Methods/Methods/Methods/bin/Debug/netcoreapp2.0/Methods.deps.json
+/Users/richiewong/Documents/CSharp/Classes/Methods/Methods/Methods/bin/Debug/netcoreapp2.0/Methods.runtimeconfig.json
+/Users/richiewong/Documents/CSharp/Classes/Methods/Methods/Methods/bin/Debug/netcoreapp2.0/Methods.runtimeconfig.dev.json
+/Users/richiewong/Documents/CSharp/Classes/Methods/Methods/Methods/bin/Debug/netcoreapp2.0/Methods.dll
+/Users/richiewong/Documents/CSharp/Classes/Methods/Methods/Methods/bin/Debug/netcoreapp2.0/Methods.pdb
+/Users/richiewong/Documents/CSharp/Classes/Methods/Methods/Methods/obj/Debug/netcoreapp2.0/Methods.csprojResolveAssemblyReference.cache
+/Users/richiewong/Documents/CSharp/Classes/Methods/Methods/Methods/obj/Debug/netcoreapp2.0/Methods.csproj.CoreCompileInputs.cache
+/Users/richiewong/Documents/CSharp/Classes/Methods/Methods/Methods/obj/Debug/netcoreapp2.0/Methods.AssemblyInfoInputs.cache
+/Users/richiewong/Documents/CSharp/Classes/Methods/Methods/Methods/obj/Debug/netcoreapp2.0/Methods.AssemblyInfo.cs
+/Users/richiewong/Documents/CSharp/Classes/Methods/Methods/Methods/obj/Debug/netcoreapp2.0/Methods.dll
+/Users/richiewong/Documents/CSharp/Classes/Methods/Methods/Methods/obj/Debug/netcoreapp2.0/Methods.pdb
