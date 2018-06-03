@@ -1,0 +1,11 @@
+/Users/richiewong/Documents/CSharp/Classes/Properties/Properties/bin/Debug/netcoreapp2.0/Properties.deps.json
+/Users/richiewong/Documents/CSharp/Classes/Properties/Properties/bin/Debug/netcoreapp2.0/Properties.runtimeconfig.json
+/Users/richiewong/Documents/CSharp/Classes/Properties/Properties/bin/Debug/netcoreapp2.0/Properties.runtimeconfig.dev.json
+/Users/richiewong/Documents/CSharp/Classes/Properties/Properties/bin/Debug/netcoreapp2.0/Properties.dll
+/Users/richiewong/Documents/CSharp/Classes/Properties/Properties/bin/Debug/netcoreapp2.0/Properties.pdb
+/Users/richiewong/Documents/CSharp/Classes/Properties/Properties/obj/Debug/netcoreapp2.0/Properties.csprojResolveAssemblyReference.cache
+/Users/richiewong/Documents/CSharp/Classes/Properties/Properties/obj/Debug/netcoreapp2.0/Properties.csproj.CoreCompileInputs.cache
+/Users/richiewong/Documents/CSharp/Classes/Properties/Properties/obj/Debug/netcoreapp2.0/Properties.AssemblyInfoInputs.cache
+/Users/richiewong/Documents/CSharp/Classes/Properties/Properties/obj/Debug/netcoreapp2.0/Properties.AssemblyInfo.cs
+/Users/richiewong/Documents/CSharp/Classes/Properties/Properties/obj/Debug/netcoreapp2.0/Properties.dll
+/Users/richiewong/Documents/CSharp/Classes/Properties/Properties/obj/Debug/netcoreapp2.0/Properties.pdb

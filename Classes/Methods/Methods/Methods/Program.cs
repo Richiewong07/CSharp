@@ -15,17 +15,18 @@ namespace Methods
 			//{
 			//	Console.WriteLine("Conversion Failed");
 			//}
-			         
+
+
+            // OUT MODIFIER
 			int number;
 			var result = int.TryParse("abc", out number);
             if (result)
 				Console.WriteLine(number);
 			else
 				Console.WriteLine("Conversion Failed");
-
-			UseParams();
-
+                         
 		}
+
 
         static void UseParams()
 		{
@@ -38,12 +39,16 @@ namespace Methods
 
         static void UsePoints()
 		{
+			// GLOBAL EXCEPTION HANDLING
 			try
             {
                 var point = new Point(10, 20);
+
+                // TAKES POINT OBJECT
                 point.Move(new Point(40, 60));
                 Console.WriteLine("Point is at ({0}, {1})", point.X, point.Y);
 
+                // TAKES X AND Y
                 point.Move(100, 200);
                 Console.WriteLine("Point is at ({0}, {1})", point.X, point.Y);
             }

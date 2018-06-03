@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{2F487472-0B04-4433-8592-A49C8B6B222C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AccessModifiers/Program.cs">
+    <Files>
+      <File FileName="AccessModifiers/Program.cs" Line="5" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AccessModifiers PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

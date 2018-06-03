@@ -1,0 +1,11 @@
+/Users/richiewong/Documents/CSharp/Classes/Fields/Fields/bin/Debug/netcoreapp2.0/Fields.deps.json
+/Users/richiewong/Documents/CSharp/Classes/Fields/Fields/bin/Debug/netcoreapp2.0/Fields.runtimeconfig.json
+/Users/richiewong/Documents/CSharp/Classes/Fields/Fields/bin/Debug/netcoreapp2.0/Fields.runtimeconfig.dev.json
+/Users/richiewong/Documents/CSharp/Classes/Fields/Fields/bin/Debug/netcoreapp2.0/Fields.dll
+/Users/richiewong/Documents/CSharp/Classes/Fields/Fields/bin/Debug/netcoreapp2.0/Fields.pdb
+/Users/richiewong/Documents/CSharp/Classes/Fields/Fields/obj/Debug/netcoreapp2.0/Fields.csprojResolveAssemblyReference.cache
+/Users/richiewong/Documents/CSharp/Classes/Fields/Fields/obj/Debug/netcoreapp2.0/Fields.csproj.CoreCompileInputs.cache
+/Users/richiewong/Documents/CSharp/Classes/Fields/Fields/obj/Debug/netcoreapp2.0/Fields.AssemblyInfoInputs.cache
+/Users/richiewong/Documents/CSharp/Classes/Fields/Fields/obj/Debug/netcoreapp2.0/Fields.AssemblyInfo.cs
+/Users/richiewong/Documents/CSharp/Classes/Fields/Fields/obj/Debug/netcoreapp2.0/Fields.dll
+/Users/richiewong/Documents/CSharp/Classes/Fields/Fields/obj/Debug/netcoreapp2.0/Fields.pdb

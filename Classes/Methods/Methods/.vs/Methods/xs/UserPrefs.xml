@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{37DB89BA-3033-482E-9BF9-0A604ACC8F2D}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Methods/Calculator.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Methods/Program.cs">
     <Files>
-      <File FileName="Methods/Program.cs" Line="7" Column="1" />
-      <File FileName="Methods/Point.cs" Line="32" Column="1" />
+      <File FileName="Methods/Program.cs" Line="12" Column="24" />
+      <File FileName="Methods/Point.cs" Line="31" Column="40" />
       <File FileName="Methods/Calculator.cs" Line="19" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>

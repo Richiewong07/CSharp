@@ -1,0 +1,11 @@
+/Users/richiewong/Documents/CSharp/Classes/Indexers/Indexers/bin/Debug/netcoreapp2.0/Indexers.deps.json
+/Users/richiewong/Documents/CSharp/Classes/Indexers/Indexers/bin/Debug/netcoreapp2.0/Indexers.runtimeconfig.json
+/Users/richiewong/Documents/CSharp/Classes/Indexers/Indexers/bin/Debug/netcoreapp2.0/Indexers.runtimeconfig.dev.json
+/Users/richiewong/Documents/CSharp/Classes/Indexers/Indexers/bin/Debug/netcoreapp2.0/Indexers.dll
+/Users/richiewong/Documents/CSharp/Classes/Indexers/Indexers/bin/Debug/netcoreapp2.0/Indexers.pdb
+/Users/richiewong/Documents/CSharp/Classes/Indexers/Indexers/obj/Debug/netcoreapp2.0/Indexers.csprojResolveAssemblyReference.cache
+/Users/richiewong/Documents/CSharp/Classes/Indexers/Indexers/obj/Debug/netcoreapp2.0/Indexers.csproj.CoreCompileInputs.cache
+/Users/richiewong/Documents/CSharp/Classes/Indexers/Indexers/obj/Debug/netcoreapp2.0/Indexers.AssemblyInfoInputs.cache
+/Users/richiewong/Documents/CSharp/Classes/Indexers/Indexers/obj/Debug/netcoreapp2.0/Indexers.AssemblyInfo.cs
+/Users/richiewong/Documents/CSharp/Classes/Indexers/Indexers/obj/Debug/netcoreapp2.0/Indexers.dll
+/Users/richiewong/Documents/CSharp/Classes/Indexers/Indexers/obj/Debug/netcoreapp2.0/Indexers.pdb

@@ -1,0 +1,11 @@
+/Users/richiewong/Documents/CSharp/Classes/AccessModifiers/AccessModifiers/bin/Debug/netcoreapp2.0/AccessModifiers.deps.json
+/Users/richiewong/Documents/CSharp/Classes/AccessModifiers/AccessModifiers/bin/Debug/netcoreapp2.0/AccessModifiers.runtimeconfig.json
+/Users/richiewong/Documents/CSharp/Classes/AccessModifiers/AccessModifiers/bin/Debug/netcoreapp2.0/AccessModifiers.runtimeconfig.dev.json
+/Users/richiewong/Documents/CSharp/Classes/AccessModifiers/AccessModifiers/bin/Debug/netcoreapp2.0/AccessModifiers.dll
+/Users/richiewong/Documents/CSharp/Classes/AccessModifiers/AccessModifiers/bin/Debug/netcoreapp2.0/AccessModifiers.pdb
+/Users/richiewong/Documents/CSharp/Classes/AccessModifiers/AccessModifiers/obj/Debug/netcoreapp2.0/AccessModifiers.csprojResolveAssemblyReference.cache
+/Users/richiewong/Documents/CSharp/Classes/AccessModifiers/AccessModifiers/obj/Debug/netcoreapp2.0/AccessModifiers.csproj.CoreCompileInputs.cache
+/Users/richiewong/Documents/CSharp/Classes/AccessModifiers/AccessModifiers/obj/Debug/netcoreapp2.0/AccessModifiers.AssemblyInfoInputs.cache
+/Users/richiewong/Documents/CSharp/Classes/AccessModifiers/AccessModifiers/obj/Debug/netcoreapp2.0/AccessModifiers.AssemblyInfo.cs
+/Users/richiewong/Documents/CSharp/Classes/AccessModifiers/AccessModifiers/obj/Debug/netcoreapp2.0/AccessModifiers.dll
+/Users/richiewong/Documents/CSharp/Classes/AccessModifiers/AccessModifiers/obj/Debug/netcoreapp2.0/AccessModifiers.pdb
