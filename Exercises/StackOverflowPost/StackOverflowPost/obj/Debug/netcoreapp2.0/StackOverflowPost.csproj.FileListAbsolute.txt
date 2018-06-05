@@ -1,0 +1,11 @@
+/Users/richiewong/Documents/CSharp/Exercises/StackOverflowPost/StackOverflowPost/bin/Debug/netcoreapp2.0/StackOverflowPost.deps.json
+/Users/richiewong/Documents/CSharp/Exercises/StackOverflowPost/StackOverflowPost/bin/Debug/netcoreapp2.0/StackOverflowPost.runtimeconfig.json
+/Users/richiewong/Documents/CSharp/Exercises/StackOverflowPost/StackOverflowPost/bin/Debug/netcoreapp2.0/StackOverflowPost.runtimeconfig.dev.json
+/Users/richiewong/Documents/CSharp/Exercises/StackOverflowPost/StackOverflowPost/bin/Debug/netcoreapp2.0/StackOverflowPost.dll
+/Users/richiewong/Documents/CSharp/Exercises/StackOverflowPost/StackOverflowPost/bin/Debug/netcoreapp2.0/StackOverflowPost.pdb
+/Users/richiewong/Documents/CSharp/Exercises/StackOverflowPost/StackOverflowPost/obj/Debug/netcoreapp2.0/StackOverflowPost.csprojResolveAssemblyReference.cache
+/Users/richiewong/Documents/CSharp/Exercises/StackOverflowPost/StackOverflowPost/obj/Debug/netcoreapp2.0/StackOverflowPost.csproj.CoreCompileInputs.cache
+/Users/richiewong/Documents/CSharp/Exercises/StackOverflowPost/StackOverflowPost/obj/Debug/netcoreapp2.0/StackOverflowPost.AssemblyInfoInputs.cache
+/Users/richiewong/Documents/CSharp/Exercises/StackOverflowPost/StackOverflowPost/obj/Debug/netcoreapp2.0/StackOverflowPost.AssemblyInfo.cs
+/Users/richiewong/Documents/CSharp/Exercises/StackOverflowPost/StackOverflowPost/obj/Debug/netcoreapp2.0/StackOverflowPost.dll
+/Users/richiewong/Documents/CSharp/Exercises/StackOverflowPost/StackOverflowPost/obj/Debug/netcoreapp2.0/StackOverflowPost.pdb

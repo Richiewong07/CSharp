@@ -1,0 +1,11 @@
+/Users/richiewong/Documents/CSharp/ClassAssociation/Solution/Solution/obj/Debug/netcoreapp2.0/Solution.csprojResolveAssemblyReference.cache
+/Users/richiewong/Documents/CSharp/ClassAssociation/Solution/Solution/obj/Debug/netcoreapp2.0/Solution.csproj.CoreCompileInputs.cache
+/Users/richiewong/Documents/CSharp/ClassAssociation/Solution/Solution/obj/Debug/netcoreapp2.0/Solution.AssemblyInfoInputs.cache
+/Users/richiewong/Documents/CSharp/ClassAssociation/Solution/Solution/obj/Debug/netcoreapp2.0/Solution.AssemblyInfo.cs
+/Users/richiewong/Documents/CSharp/ClassAssociation/Solution/Solution/bin/Debug/netcoreapp2.0/Solution.deps.json
+/Users/richiewong/Documents/CSharp/ClassAssociation/Solution/Solution/bin/Debug/netcoreapp2.0/Solution.runtimeconfig.json
+/Users/richiewong/Documents/CSharp/ClassAssociation/Solution/Solution/bin/Debug/netcoreapp2.0/Solution.runtimeconfig.dev.json
+/Users/richiewong/Documents/CSharp/ClassAssociation/Solution/Solution/bin/Debug/netcoreapp2.0/Solution.dll
+/Users/richiewong/Documents/CSharp/ClassAssociation/Solution/Solution/bin/Debug/netcoreapp2.0/Solution.pdb
+/Users/richiewong/Documents/CSharp/ClassAssociation/Solution/Solution/obj/Debug/netcoreapp2.0/Solution.dll
+/Users/richiewong/Documents/CSharp/ClassAssociation/Solution/Solution/obj/Debug/netcoreapp2.0/Solution.pdb

@@ -1,0 +1,11 @@
+/Users/richiewong/Documents/CSharp/ClassAssociation/Inheritance/Inheritance/bin/Debug/netcoreapp2.0/Inheritance.deps.json
+/Users/richiewong/Documents/CSharp/ClassAssociation/Inheritance/Inheritance/bin/Debug/netcoreapp2.0/Inheritance.runtimeconfig.json
+/Users/richiewong/Documents/CSharp/ClassAssociation/Inheritance/Inheritance/bin/Debug/netcoreapp2.0/Inheritance.runtimeconfig.dev.json
+/Users/richiewong/Documents/CSharp/ClassAssociation/Inheritance/Inheritance/bin/Debug/netcoreapp2.0/Inheritance.dll
+/Users/richiewong/Documents/CSharp/ClassAssociation/Inheritance/Inheritance/bin/Debug/netcoreapp2.0/Inheritance.pdb
+/Users/richiewong/Documents/CSharp/ClassAssociation/Inheritance/Inheritance/obj/Debug/netcoreapp2.0/Inheritance.csprojResolveAssemblyReference.cache
+/Users/richiewong/Documents/CSharp/ClassAssociation/Inheritance/Inheritance/obj/Debug/netcoreapp2.0/Inheritance.csproj.CoreCompileInputs.cache
+/Users/richiewong/Documents/CSharp/ClassAssociation/Inheritance/Inheritance/obj/Debug/netcoreapp2.0/Inheritance.AssemblyInfoInputs.cache
+/Users/richiewong/Documents/CSharp/ClassAssociation/Inheritance/Inheritance/obj/Debug/netcoreapp2.0/Inheritance.AssemblyInfo.cs
+/Users/richiewong/Documents/CSharp/ClassAssociation/Inheritance/Inheritance/obj/Debug/netcoreapp2.0/Inheritance.dll
+/Users/richiewong/Documents/CSharp/ClassAssociation/Inheritance/Inheritance/obj/Debug/netcoreapp2.0/Inheritance.pdb

@@ -1,0 +1,11 @@
+/Users/richiewong/Documents/CSharp/Exercises/StopwatchExercise/StopwatchExercise/StopwatchExercise/obj/Debug/netcoreapp2.0/StopwatchExercise.csprojResolveAssemblyReference.cache
+/Users/richiewong/Documents/CSharp/Exercises/StopwatchExercise/StopwatchExercise/StopwatchExercise/obj/Debug/netcoreapp2.0/StopwatchExercise.csproj.CoreCompileInputs.cache
+/Users/richiewong/Documents/CSharp/Exercises/StopwatchExercise/StopwatchExercise/StopwatchExercise/obj/Debug/netcoreapp2.0/StopwatchExercise.AssemblyInfoInputs.cache
+/Users/richiewong/Documents/CSharp/Exercises/StopwatchExercise/StopwatchExercise/StopwatchExercise/obj/Debug/netcoreapp2.0/StopwatchExercise.AssemblyInfo.cs
+/Users/richiewong/Documents/CSharp/Exercises/StopwatchExercise/StopwatchExercise/StopwatchExercise/bin/Debug/netcoreapp2.0/StopwatchExercise.deps.json
+/Users/richiewong/Documents/CSharp/Exercises/StopwatchExercise/StopwatchExercise/StopwatchExercise/bin/Debug/netcoreapp2.0/StopwatchExercise.runtimeconfig.json
+/Users/richiewong/Documents/CSharp/Exercises/StopwatchExercise/StopwatchExercise/StopwatchExercise/bin/Debug/netcoreapp2.0/StopwatchExercise.runtimeconfig.dev.json
+/Users/richiewong/Documents/CSharp/Exercises/StopwatchExercise/StopwatchExercise/StopwatchExercise/bin/Debug/netcoreapp2.0/StopwatchExercise.dll
+/Users/richiewong/Documents/CSharp/Exercises/StopwatchExercise/StopwatchExercise/StopwatchExercise/bin/Debug/netcoreapp2.0/StopwatchExercise.pdb
+/Users/richiewong/Documents/CSharp/Exercises/StopwatchExercise/StopwatchExercise/StopwatchExercise/obj/Debug/netcoreapp2.0/StopwatchExercise.dll
+/Users/richiewong/Documents/CSharp/Exercises/StopwatchExercise/StopwatchExercise/StopwatchExercise/obj/Debug/netcoreapp2.0/StopwatchExercise.pdb
