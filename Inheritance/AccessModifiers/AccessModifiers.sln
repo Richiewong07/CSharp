@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessModifiers", "AccessModifiers\AccessModifiers.csproj", "{B164DAA4-F0AF-428B-BB77-D9BB459ADE18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amazon", "Amazon\Amazon.csproj", "{F64E6FE8-106E-4C84-B031-721F0654D5B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B164DAA4-F0AF-428B-BB77-D9BB459ADE18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B164DAA4-F0AF-428B-BB77-D9BB459ADE18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B164DAA4-F0AF-428B-BB77-D9BB459ADE18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B164DAA4-F0AF-428B-BB77-D9BB459ADE18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F64E6FE8-106E-4C84-B031-721F0654D5B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F64E6FE8-106E-4C84-B031-721F0654D5B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F64E6FE8-106E-4C84-B031-721F0654D5B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F64E6FE8-106E-4C84-B031-721F0654D5B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{B164DAA4-F0AF-428B-BB77-D9BB459ADE18}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AccessModifiers/Program.cs">
+    <Files>
+      <File FileName="AccessModifiers/Program.cs" Line="10" Column="30" />
+      <File FileName="Amazon/Customer.cs" Line="14" Column="22" />
+      <File FileName="Amazon/RateCalculator.cs" Line="1" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Amazon FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AccessModifiers PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+</Properties>

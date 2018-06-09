@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{DD0D800F-4ABA-4421-81AF-A2D4E550195E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DesignDatabaseConnection/Program.cs">
+    <Files>
+      <File FileName="DesignDatabaseConnection/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DesignDatabaseConnection PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>

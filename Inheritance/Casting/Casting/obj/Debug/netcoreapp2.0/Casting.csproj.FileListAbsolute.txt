@@ -1,0 +1,11 @@
+/Users/richiewong/Documents/CSharp/ClassAssociation/Casting/Casting/bin/Debug/netcoreapp2.0/Casting.deps.json
+/Users/richiewong/Documents/CSharp/ClassAssociation/Casting/Casting/bin/Debug/netcoreapp2.0/Casting.runtimeconfig.json
+/Users/richiewong/Documents/CSharp/ClassAssociation/Casting/Casting/bin/Debug/netcoreapp2.0/Casting.runtimeconfig.dev.json
+/Users/richiewong/Documents/CSharp/ClassAssociation/Casting/Casting/bin/Debug/netcoreapp2.0/Casting.dll
+/Users/richiewong/Documents/CSharp/ClassAssociation/Casting/Casting/bin/Debug/netcoreapp2.0/Casting.pdb
+/Users/richiewong/Documents/CSharp/ClassAssociation/Casting/Casting/obj/Debug/netcoreapp2.0/Casting.csprojResolveAssemblyReference.cache
+/Users/richiewong/Documents/CSharp/ClassAssociation/Casting/Casting/obj/Debug/netcoreapp2.0/Casting.csproj.CoreCompileInputs.cache
+/Users/richiewong/Documents/CSharp/ClassAssociation/Casting/Casting/obj/Debug/netcoreapp2.0/Casting.AssemblyInfoInputs.cache
+/Users/richiewong/Documents/CSharp/ClassAssociation/Casting/Casting/obj/Debug/netcoreapp2.0/Casting.AssemblyInfo.cs
+/Users/richiewong/Documents/CSharp/ClassAssociation/Casting/Casting/obj/Debug/netcoreapp2.0/Casting.dll
+/Users/richiewong/Documents/CSharp/ClassAssociation/Casting/Casting/obj/Debug/netcoreapp2.0/Casting.pdb

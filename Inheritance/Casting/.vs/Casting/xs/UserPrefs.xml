@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{B7E82D48-BA59-4D91-8E05-69094048C177}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Casting/Program.cs">
+    <Files>
+      <File FileName="Casting/Program.cs" Line="24" Column="4" />
+      <File FileName="Casting/Shape.cs" Line="1" Column="1" />
+      <File FileName="Casting/Text.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Casting PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

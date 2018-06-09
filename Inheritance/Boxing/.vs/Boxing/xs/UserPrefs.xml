@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{8E98BABD-0D57-443D-9034-57E7EA1FC26E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Boxing/Program.cs">
+    <Files>
+      <File FileName="Boxing/Program.cs" Line="18" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Boxing PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+</Properties>
