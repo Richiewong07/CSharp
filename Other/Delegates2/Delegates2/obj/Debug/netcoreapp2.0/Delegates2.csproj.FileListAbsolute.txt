@@ -1,0 +1,11 @@
+/Users/richiewong/Desktop/Delegates2/Delegates2/bin/Debug/netcoreapp2.0/Delegates2.deps.json
+/Users/richiewong/Desktop/Delegates2/Delegates2/bin/Debug/netcoreapp2.0/Delegates2.runtimeconfig.json
+/Users/richiewong/Desktop/Delegates2/Delegates2/bin/Debug/netcoreapp2.0/Delegates2.runtimeconfig.dev.json
+/Users/richiewong/Desktop/Delegates2/Delegates2/bin/Debug/netcoreapp2.0/Delegates2.dll
+/Users/richiewong/Desktop/Delegates2/Delegates2/bin/Debug/netcoreapp2.0/Delegates2.pdb
+/Users/richiewong/Desktop/Delegates2/Delegates2/obj/Debug/netcoreapp2.0/Delegates2.csprojResolveAssemblyReference.cache
+/Users/richiewong/Desktop/Delegates2/Delegates2/obj/Debug/netcoreapp2.0/Delegates2.csproj.CoreCompileInputs.cache
+/Users/richiewong/Desktop/Delegates2/Delegates2/obj/Debug/netcoreapp2.0/Delegates2.AssemblyInfoInputs.cache
+/Users/richiewong/Desktop/Delegates2/Delegates2/obj/Debug/netcoreapp2.0/Delegates2.AssemblyInfo.cs
+/Users/richiewong/Desktop/Delegates2/Delegates2/obj/Debug/netcoreapp2.0/Delegates2.dll
+/Users/richiewong/Desktop/Delegates2/Delegates2/obj/Debug/netcoreapp2.0/Delegates2.pdb

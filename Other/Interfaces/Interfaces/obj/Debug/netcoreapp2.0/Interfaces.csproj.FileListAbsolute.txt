@@ -1,0 +1,11 @@
+/Users/richiewong/Projects/Interfaces/Interfaces/bin/Debug/netcoreapp2.0/Interfaces.deps.json
+/Users/richiewong/Projects/Interfaces/Interfaces/bin/Debug/netcoreapp2.0/Interfaces.runtimeconfig.json
+/Users/richiewong/Projects/Interfaces/Interfaces/bin/Debug/netcoreapp2.0/Interfaces.runtimeconfig.dev.json
+/Users/richiewong/Projects/Interfaces/Interfaces/bin/Debug/netcoreapp2.0/Interfaces.dll
+/Users/richiewong/Projects/Interfaces/Interfaces/bin/Debug/netcoreapp2.0/Interfaces.pdb
+/Users/richiewong/Projects/Interfaces/Interfaces/obj/Debug/netcoreapp2.0/Interfaces.csprojResolveAssemblyReference.cache
+/Users/richiewong/Projects/Interfaces/Interfaces/obj/Debug/netcoreapp2.0/Interfaces.csproj.CoreCompileInputs.cache
+/Users/richiewong/Projects/Interfaces/Interfaces/obj/Debug/netcoreapp2.0/Interfaces.AssemblyInfoInputs.cache
+/Users/richiewong/Projects/Interfaces/Interfaces/obj/Debug/netcoreapp2.0/Interfaces.AssemblyInfo.cs
+/Users/richiewong/Projects/Interfaces/Interfaces/obj/Debug/netcoreapp2.0/Interfaces.dll
+/Users/richiewong/Projects/Interfaces/Interfaces/obj/Debug/netcoreapp2.0/Interfaces.pdb

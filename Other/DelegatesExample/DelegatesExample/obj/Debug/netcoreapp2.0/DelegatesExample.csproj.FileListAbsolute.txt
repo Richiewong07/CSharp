@@ -1,0 +1,11 @@
+/Users/richiewong/Desktop/DelegatesExample/DelegatesExample/bin/Debug/netcoreapp2.0/DelegatesExample.deps.json
+/Users/richiewong/Desktop/DelegatesExample/DelegatesExample/bin/Debug/netcoreapp2.0/DelegatesExample.runtimeconfig.json
+/Users/richiewong/Desktop/DelegatesExample/DelegatesExample/bin/Debug/netcoreapp2.0/DelegatesExample.runtimeconfig.dev.json
+/Users/richiewong/Desktop/DelegatesExample/DelegatesExample/bin/Debug/netcoreapp2.0/DelegatesExample.dll
+/Users/richiewong/Desktop/DelegatesExample/DelegatesExample/bin/Debug/netcoreapp2.0/DelegatesExample.pdb
+/Users/richiewong/Desktop/DelegatesExample/DelegatesExample/obj/Debug/netcoreapp2.0/DelegatesExample.csprojResolveAssemblyReference.cache
+/Users/richiewong/Desktop/DelegatesExample/DelegatesExample/obj/Debug/netcoreapp2.0/DelegatesExample.csproj.CoreCompileInputs.cache
+/Users/richiewong/Desktop/DelegatesExample/DelegatesExample/obj/Debug/netcoreapp2.0/DelegatesExample.AssemblyInfoInputs.cache
+/Users/richiewong/Desktop/DelegatesExample/DelegatesExample/obj/Debug/netcoreapp2.0/DelegatesExample.AssemblyInfo.cs
+/Users/richiewong/Desktop/DelegatesExample/DelegatesExample/obj/Debug/netcoreapp2.0/DelegatesExample.dll
+/Users/richiewong/Desktop/DelegatesExample/DelegatesExample/obj/Debug/netcoreapp2.0/DelegatesExample.pdb
